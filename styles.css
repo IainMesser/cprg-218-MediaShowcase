@@ -24,14 +24,14 @@ header {
     gap: 20px;
     padding: 20px;
 }
-.Movies {
+.movie {
     background: #111;
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(255, 255, 255, 0.2);
     transition: transform 0.3s ease-in-out;
 }
-.Movies:hover {
+.movie:hover {
     transform: scale(1.05);
 }
 img {
