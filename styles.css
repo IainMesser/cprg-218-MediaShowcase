@@ -22,6 +22,19 @@ header {
     text-align: center; 
 }
 
+/* Music */ 
+figure {
+    text-align: center;
+    margin: 20px auto; 
+    padding: 10px;
+    color: white;
+}
+
+audio {
+    width: 300px; 
+}
+
+
 /* Text */
 h1, h2 {
     font-family: 'Star Wars', sans-serif, Arial, Helvetica, sans-serif; 
